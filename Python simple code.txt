@@ -1,9 +1,5 @@
 num1 = 10
 num2 = 14
 num3 = 14
-<<<<<<< HEAD
-sum_result = num1 + num2 +num3 -num3
-=======
 
->>>>>>> feature/example
 print(f"The sum of {num1} and {num2} and {num3} is: {sum_result}")
